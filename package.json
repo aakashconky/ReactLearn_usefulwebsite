@@ -1,7 +1,7 @@
 {
   "name": "usefulwebsite",
   "version": "0.1.0",
-  "homepage": "https://github.com/aakashconky/ReactLearn_usefulwebsite/settings/pages#:~:text=http%3A//reactlearnusefulwebsite.githb.io/"
+  "homepage": "https://github.com/aakashconky/ReactLearn_usefulwebsite/settings/pages#:~:text=http%3A//reactlearnusefulwebsite.githb.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
