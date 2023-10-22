@@ -1,0 +1,30 @@
+h1 {
+    background-color: rgb(26, 191, 109);
+    color:yellow;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+    color:black;
+    font-weight: bold;
+}
+
+.button {
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    margin: 2px;
+
+}
+
+div {
+    text-align: center;
+}
